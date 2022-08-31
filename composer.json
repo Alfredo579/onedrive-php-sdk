@@ -1,5 +1,5 @@
 {
-    "name": "krizalys/onedrive-php-sdk",
+    "name": "Alfredo579/onedrive-php-sdk",
     "description": "OneDrive SDK for PHP.",
     "homepage": "https://github.com/krizalys/onedrive-php-sdk",
     "license": "BSD-3-Clause",
@@ -14,6 +14,9 @@
         {
             "name": "Christophe Vidal",
             "homepage": "http://www.krizalys.com/"
+        },
+        {
+            "name": "Alfredo e Salvo"
         }
     ],
     "support": {
